@@ -1,0 +1,1 @@
+Developed an Android application using Java, this project predictives the diseases and suggest hospitals.
