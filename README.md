@@ -1,1 +1,0 @@
-# Smart_Disease_Prediction_and_Hospital_Suggestion
